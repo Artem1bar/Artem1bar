@@ -1,6 +1,6 @@
 # Hi, I'm Artem
 
-Entrepreneurship student at LSU (E. J. Ourso College of Business) and founder of [Weblux](https://weblux.co), a Louisiana software consultancy that builds websites, client portals, and AI automation for service businesses. Research assistant at LSU's Center for Economics, Business & Policy Research, working on the economics of AI in Louisiana. Originally from Minsk, now in Baton Rouge.
+Entrepreneurship student at LSU (E. J. Ourso College of Business) and founder of [Weblux](https://weblux.co), a Louisiana software consultancy that builds websites, client portals, and AI automation for service businesses. Research assistant at LSU's Center for Economics, Business & Policy Research, working on its [Geaux AI Economy](https://www.lsu.edu/business/cebpr/geaux-ai/index.php) initiative on how AI is reshaping Louisiana's economy. Originally from Minsk, now in Baton Rouge.
 
 I build with Claude every day. Claude Code drives most of my development, and most of what I ship has Claude inside it.
 
