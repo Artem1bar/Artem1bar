@@ -4,6 +4,8 @@ Entrepreneurship student at LSU (E. J. Ourso College of Business) and founder of
 
 I build with Claude every day. Claude Code drives most of my development, and most of what I ship has Claude inside it.
 
+Most of these were built privately between spring and summer 2026 and published in September 2026, so repo creation dates are recent; commit histories are original where they existed.
+
 <!-- gallery -->
 | <a href="https://github.com/Artem1bar/datapilot"><img src="https://raw.githubusercontent.com/Artem1bar/datapilot/main/docs/screenshot.png" alt="DataPilot" width="280"></a> | <a href="https://github.com/Artem1bar/g1bridge"><img src="https://raw.githubusercontent.com/Artem1bar/g1bridge/main/docs/hud-sim.png" alt="g1bridge" width="280"></a> | <a href="https://github.com/Artem1bar/wndr-os"><img src="https://raw.githubusercontent.com/Artem1bar/wndr-os/main/docs/wndr-strip.jpg" alt="wndr-os" width="280"></a> |
 |---|---|---|
@@ -12,8 +14,8 @@ I build with Claude every day. Claude Code drives most of my development, and mo
 | [morphogen](https://github.com/Artem1bar/morphogen) | [fuelfleet](https://github.com/Artem1bar/fuelfleet) | [halting-problem](https://github.com/Artem1bar/halting-problem) |
 | <a href="https://github.com/Artem1bar/roboarm"><img src="https://raw.githubusercontent.com/Artem1bar/roboarm/main/docs/hub-teach.png" alt="roboarm" width="280"></a> | <a href="https://github.com/Artem1bar/ai-literacy-app"><img src="https://raw.githubusercontent.com/Artem1bar/ai-literacy-app/main/docs/screenshot.png" alt="AI Literacy App" width="280"></a> | <a href="https://github.com/Artem1bar/gearworks"><img src="https://raw.githubusercontent.com/Artem1bar/gearworks/main/docs/screenshot.png" alt="gearworks" width="280"></a> |
 | [roboarm](https://github.com/Artem1bar/roboarm) | [AI Literacy App](https://github.com/Artem1bar/ai-literacy-app) | [gearworks](https://github.com/Artem1bar/gearworks) |
-| <a href="https://github.com/Artem1bar/mythos-building"><img src="https://raw.githubusercontent.com/Artem1bar/mythos-building/main/docs/screenshot.png" alt="mythos-building" width="280"></a> | <a href="https://github.com/Artem1bar/documake"><img src="https://raw.githubusercontent.com/Artem1bar/documake/main/docs/screenshot.png" alt="documake" width="280"></a> | <a href="https://github.com/Artem1bar/pissmap"><img src="https://raw.githubusercontent.com/Artem1bar/pissmap/main/docs/screenshot.jpg" alt="PissMap NOLA" width="280"></a> |
-| [mythos-building](https://github.com/Artem1bar/mythos-building) | [documake](https://github.com/Artem1bar/documake) | [PissMap NOLA](https://github.com/Artem1bar/pissmap) |
+| <a href="https://github.com/Artem1bar/mythos-building"><img src="https://raw.githubusercontent.com/Artem1bar/mythos-building/main/docs/screenshot.png" alt="mythos-building" width="280"></a> | <a href="https://github.com/Artem1bar/documake"><img src="https://raw.githubusercontent.com/Artem1bar/documake/main/docs/screenshot.png" alt="documake" width="280"></a> | <a href="https://github.com/Artem1bar/weblux-site-template"><img src="https://raw.githubusercontent.com/Artem1bar/weblux-site-template/main/docs/screenshot.png" alt="weblux-site-template" width="280"></a> |
+| [mythos-building](https://github.com/Artem1bar/mythos-building) | [documake](https://github.com/Artem1bar/documake) | [weblux-site-template](https://github.com/Artem1bar/weblux-site-template) |
 
 ## Building now
 
@@ -21,7 +23,7 @@ I build with Claude every day. Claude Code drives most of my development, and mo
 - [**DataPilot**](https://github.com/Artem1bar/datapilot): upload a spreadsheet, describe the analysis in plain English; Claude picks the method and runs real statistics (33 scipy / pandas / statsmodels operations), every number measured, never generated. 1,500+ tests. Runs locally with docker compose; the hosted frontend is waiting on a backend host.
 - [**g1bridge**](https://github.com/Artem1bar/g1bridge): a Claude agent on Even Realities G1 smart glasses over Bluetooth LE. Reads the glasses' inputs, pushes a custom heads-up display, transcribes voice captured on the glasses.
 - [**AI Literacy App**](https://github.com/Artem1bar/ai-literacy-app): role-adaptive modules on how LLMs work, prompting, and responsible AI, for students, professors, and developers. Reworked into the [AI 101 guides](https://weblux.co/ai-101) for business owners. [Live](https://ai-literacy-app-seven.vercel.app)
-- **Business Command Hub**: local-first operations dashboard with per-division Claude agents and ten scheduled overnight coding loops. 189 API routes, 1,700+ tests. Private.
+- **Business Command Hub**: local-first operations dashboard with per-division Claude agents, three gated overnight coding loops, and seven maintenance timers, all macOS LaunchAgents. 189 API routes, 1,700+ tests. Private.
 
 ## Open-prompt experiments
 
