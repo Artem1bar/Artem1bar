@@ -18,7 +18,7 @@ I build with Claude every day. Claude Code drives most of my development, and mo
 ## Building now
 
 - **HVAC field co-pilot** for ServiceTitan shops: captures the on-site troubleshooting conversation, answers from a RAG knowledge base, and drafts the invoice from it. Private until launch this fall.
-- [**DataPilot**](https://github.com/Artem1bar/datapilot): upload a spreadsheet, describe the analysis in plain English; Claude picks the method and runs real statistics (33 scipy / pandas / statsmodels operations), every number measured, never generated. 1,500+ tests. [Live](https://datapilot-eight.vercel.app)
+- [**DataPilot**](https://github.com/Artem1bar/datapilot): upload a spreadsheet, describe the analysis in plain English; Claude picks the method and runs real statistics (33 scipy / pandas / statsmodels operations), every number measured, never generated. 1,500+ tests. Runs locally with docker compose; the hosted frontend is waiting on a backend host.
 - [**g1bridge**](https://github.com/Artem1bar/g1bridge): a Claude agent on Even Realities G1 smart glasses over Bluetooth LE. Reads the glasses' inputs, pushes a custom heads-up display, transcribes voice captured on the glasses.
 - [**AI Literacy App**](https://github.com/Artem1bar/ai-literacy-app): role-adaptive modules on how LLMs work, prompting, and responsible AI, for students, professors, and developers. Reworked into the [AI 101 guides](https://weblux.co/ai-101) for business owners. [Live](https://ai-literacy-app-seven.vercel.app)
 - **Business Command Hub**: local-first operations dashboard with per-division Claude agents and ten scheduled overnight coding loops. 189 API routes, 1,700+ tests. Private.
