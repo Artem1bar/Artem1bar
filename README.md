@@ -27,9 +27,6 @@ I build with Claude every day. Claude Code drives most of my development, and mo
 - [**documake**](https://github.com/Artem1bar/documake): local-first PDF generator for invoices, quotes, SOWs, and NDAs. Data never leaves the browser.
 - [**weblux-site-template**](https://github.com/Artem1bar/weblux-site-template): the Next.js client-site template Weblux ships from, with an enforced launch checklist.
 - [**mythos-building**](https://github.com/Artem1bar/mythos-building): a dependency-free procedural mythology generator with its own phonology, pantheon, and star map.
-- [**falling-sand**](https://github.com/Artem1bar/falling-sand): a cellular-automaton sandbox on a Uint8Array.
-- [**four-moments-aa**](https://github.com/Artem1bar/four-moments-aa): a single-file HTML keynote, an independent student case study on customer experience at American Airlines.
-- [**on-my-plate**](https://github.com/Artem1bar/on-my-plate): a Claude artifact dashboard of your GitHub plate through MCP connector tools.
 - [**PissMap NOLA**](https://github.com/Artem1bar/pissmap): 412 field-vetted places to pee in New Orleans. When you gotta geaux. [Live](https://pissmap.vercel.app)
 
 ## Stack
