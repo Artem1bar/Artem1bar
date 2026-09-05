@@ -1,8 +1,8 @@
 # Hi, I'm Artem
 
-Entrepreneurship student at LSU (E. J. Ourso College of Business) and founder of [Weblux](https://weblux.co), a Louisiana software consultancy that builds websites, client portals, and AI automation for service businesses. Research assistant at LSU's Center for Economics, Business & Policy Research, working on its [Geaux AI Economy](https://www.lsu.edu/business/cebpr/geaux-ai/index.php) initiative on how AI is reshaping Louisiana's economy. Originally from Minsk, now in Baton Rouge.
+Entrepreneurship student at LSU (E. J. Ourso College of Business) and founder of [Weblux](https://weblux.co), a Louisiana software consultancy that builds websites, client portals, and AI automation for service businesses. Technical co-founder of Amber, an AI co-pilot for HVAC technicians launching this fall. Research assistant at LSU's Center for Economics, Business & Policy Research, working on its [Geaux AI Economy](https://www.lsu.edu/business/cebpr/geaux-ai/index.php) initiative on how AI is reshaping Louisiana's economy. Originally from Minsk, now in Baton Rouge.
 
-I build with Claude every day. Claude Code drives most of my development, and most of what I ship has Claude inside it.
+I build with Claude every day: 900+ Claude Code sessions since spring 2026, and most of what I ship has Claude inside it.
 
 Most of these were built privately between spring and summer 2026 and published in September 2026, so repo creation dates are recent; commit histories are original where they existed.
 
@@ -19,11 +19,11 @@ Most of these were built privately between spring and summer 2026 and published 
 
 ## Building now
 
-- **HVAC field co-pilot** for ServiceTitan shops: captures the on-site troubleshooting conversation, answers from a RAG knowledge base, and drafts the invoice from it. Private until launch this fall.
+- **Amber**, an AI co-pilot for HVAC technicians on ServiceTitan: answers from a knowledge base Claude builds from the shop's manuals and past jobs, and drafts the invoice from the on-site conversation. Technical co-founder; 2,500+ tests and 820 commits since May 2026. Private until launch this fall.
 - [**DataPilot**](https://github.com/Artem1bar/datapilot): upload a spreadsheet, describe the analysis in plain English; Claude picks the method and runs real statistics (33 scipy / pandas / statsmodels operations), every number measured, never generated. 1,500+ tests. Runs locally with docker compose; the hosted frontend is waiting on a backend host.
 - [**g1bridge**](https://github.com/Artem1bar/g1bridge): a Claude agent on Even Realities G1 smart glasses over Bluetooth LE. Reads the glasses' inputs, pushes a custom heads-up display, transcribes voice captured on the glasses.
 - [**AI Literacy App**](https://github.com/Artem1bar/ai-literacy-app): role-adaptive modules on how LLMs work, prompting, and responsible AI, for students, professors, and developers. Reworked into the [AI 101 guides](https://weblux.co/ai-101) for business owners. [Live](https://ai-literacy-app-seven.vercel.app)
-- **Business Command Hub**: local-first operations dashboard with per-division Claude agents, three gated overnight coding loops, and seven maintenance timers, all macOS LaunchAgents. 189 API routes, 1,700+ tests. Private.
+- **Business Command Hub**: local-first operations dashboard with per-division Claude agents, three gated overnight coding loops, six maintenance timers, and the server, all macOS LaunchAgents. 180+ API endpoints, 1,800+ tests. Its LSU page is my study system: it syncs my Moodle calendar every morning, tracks each course's grade against a target, has a Claude agent that writes a daily plan, and turns syllabi and textbooks into concept maps, concept cards, timed mocks, and drills. Private.
 
 ## Open-prompt experiments
 
@@ -52,4 +52,4 @@ TypeScript · React · Next.js · Python · FastAPI · SQLite / Postgres · Verc
 
 ## Elsewhere
 
-[weblux.co](https://weblux.co) · abaran2@lsu.edu · Baton Rouge, LA
+[weblux.co](https://weblux.co) · [LinkedIn](https://www.linkedin.com/in/artem-baranovski) · abaran2@lsu.edu · Baton Rouge, LA
