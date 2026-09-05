@@ -31,7 +31,7 @@ Four projects from one series: an empty folder, Claude Code, and a single instru
 
 - [**morphogen**](https://github.com/Artem1bar/morphogen): twelve generative and artificial-life systems in one dependency-free page. [Live](https://morphogen-rho.vercel.app)
 - [**halting-problem**](https://github.com/Artem1bar/halting-problem): seeded generative art that halts Lorenz, Gray-Scott, and basin fields into STL, SVG, and DXF for print, CNC, and laser.
-- [**gearworks**](https://github.com/Artem1bar/gearworks): an involute gear-train playground in a single HTML file. [Live](https://gearworks.vercel.app)
+- [**gearworks**](https://github.com/Artem1bar/gearworks): an involute gear-train playground in a single HTML file. [Live](https://gearworks-silk.vercel.app)
 - [**mythos-building**](https://github.com/Artem1bar/mythos-building): a dependency-free procedural mythology generator with its own phonology, pantheon, and star map. [Live](https://mythos-building.vercel.app)
 
 ## Hardware and math
