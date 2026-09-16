@@ -2,7 +2,7 @@
 
 Entrepreneurship student at LSU (E. J. Ourso College of Business) and founder of [Weblux](https://weblux.co), a Louisiana software consultancy that builds websites, client portals, and AI automation for service businesses. Technical co-founder of Amber, an AI co-pilot for HVAC technicians launching this fall. Research assistant at LSU's Center for Economics, Business & Policy Research, working on its [Geaux AI Economy](https://www.lsu.edu/business/cebpr/geaux-ai/index.php) initiative on how AI is reshaping Louisiana's economy. Originally from Minsk, now in Baton Rouge.
 
-I build with Claude every day: 1,000+ Claude Code sessions since spring 2026, and most of what I ship has Claude inside it.
+I build with Claude every day: 1,100+ Claude Code sessions since spring 2026, and most of what I ship has Claude inside it.
 
 Most of these were built privately between spring and summer 2026 and published in September 2026, so repo creation dates are recent; commit histories are original where they existed.
 
