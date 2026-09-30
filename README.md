@@ -44,6 +44,7 @@ Four projects from one series: an empty folder, Claude Code, and a single instru
 
 - [**documake**](https://github.com/Artem1bar/documake): local-first PDF generator for invoices, quotes, SOWs, and NDAs. Data never leaves the browser.
 - [**weblux-site-template**](https://github.com/Artem1bar/weblux-site-template): the Next.js client-site template Weblux ships from, with an enforced launch checklist.
+- [**weblux-skills**](https://github.com/Artem1bar/weblux-skills): Claude Code skills library for Weblux — brand voice, client site workflow, and overnight unattended run orchestration. Installable in any project with `npx skills add`.
 - [**PissMap NOLA**](https://github.com/Artem1bar/pissmap): 412 field-vetted places to pee in New Orleans. When you gotta geaux. [Live](https://pissmap.vercel.app)
 
 ## Stack
