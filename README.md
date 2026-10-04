@@ -14,8 +14,8 @@ Most of these were built privately between spring and summer 2026 and published 
 | [morphogen](https://github.com/Artem1bar/morphogen) | [fuelfleet](https://github.com/Artem1bar/fuelfleet) | [halting-problem](https://github.com/Artem1bar/halting-problem) |
 | <a href="https://github.com/Artem1bar/roboarm"><img src="https://raw.githubusercontent.com/Artem1bar/roboarm/main/docs/hub-teach.png" alt="roboarm" width="280"></a> | <a href="https://github.com/Artem1bar/ai-literacy-app"><img src="https://raw.githubusercontent.com/Artem1bar/ai-literacy-app/main/docs/screenshot.png" alt="AI Literacy App" width="280"></a> | <a href="https://github.com/Artem1bar/gearworks"><img src="https://raw.githubusercontent.com/Artem1bar/gearworks/main/docs/screenshot.png" alt="gearworks" width="280"></a> |
 | [roboarm](https://github.com/Artem1bar/roboarm) | [AI Literacy App](https://github.com/Artem1bar/ai-literacy-app) | [gearworks](https://github.com/Artem1bar/gearworks) |
-| <a href="https://github.com/Artem1bar/mythos-building"><img src="https://raw.githubusercontent.com/Artem1bar/mythos-building/main/docs/screenshot.png" alt="mythos-building" width="280"></a> | <a href="https://github.com/Artem1bar/documake"><img src="https://raw.githubusercontent.com/Artem1bar/documake/main/docs/screenshot.png" alt="documake" width="280"></a> | <a href="https://github.com/Artem1bar/weblux-site-template"><img src="https://raw.githubusercontent.com/Artem1bar/weblux-site-template/main/docs/screenshot.png" alt="weblux-site-template" width="280"></a> |
-| [mythos-building](https://github.com/Artem1bar/mythos-building) | [documake](https://github.com/Artem1bar/documake) | [weblux-site-template](https://github.com/Artem1bar/weblux-site-template) |
+| <a href="https://github.com/Artem1bar/mythos-building"><img src="https://raw.githubusercontent.com/Artem1bar/mythos-building/main/docs/screenshot.png" alt="mythos-building" width="280"></a> | <a href="https://github.com/Artem1bar/documake"><img src="https://raw.githubusercontent.com/Artem1bar/documake/main/docs/screenshot.png" alt="documake" width="280"></a> |  |
+| [mythos-building](https://github.com/Artem1bar/mythos-building) | [documake](https://github.com/Artem1bar/documake) |  |
 
 ## Building now
 
@@ -43,7 +43,6 @@ Four projects from one series: an empty folder, Claude Code, and a single instru
 ## Smaller things
 
 - [**documake**](https://github.com/Artem1bar/documake): local-first PDF generator for invoices, quotes, SOWs, and NDAs. Data never leaves the browser.
-- [**weblux-site-template**](https://github.com/Artem1bar/weblux-site-template): the Next.js client-site template Weblux ships from, with an enforced launch checklist.
 - [**PissMap NOLA**](https://github.com/Artem1bar/pissmap): 412 field-vetted places to pee in New Orleans. When you gotta geaux. [Live](https://pissmap.vercel.app)
 
 ## Stack
