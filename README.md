@@ -1,6 +1,6 @@
 # Hi, I'm Artem
 
-Entrepreneurship student at LSU (E. J. Ourso College of Business) and founder of [Weblux](https://weblux.co), a Louisiana software consultancy that builds websites, client portals, and AI automation for service businesses. Technical co-founder of Amber, an AI co-pilot for HVAC technicians launching this fall. Research assistant at LSU's Center for Economics, Business & Policy Research, working on its [Geaux AI Economy](https://www.lsu.edu/business/cebpr/geaux-ai/index.php) initiative on how AI is reshaping Louisiana's economy. Originally from Minsk, now in Baton Rouge.
+Entrepreneurship student at LSU (E. J. Ourso College of Business) and founder of [Weblux](https://weblux.co), a Louisiana software consultancy that builds websites, client portals, and AI automation for service businesses. Technical co-founder of [plumb](https://github.com/Artem1bar/plumb), an AI co-pilot for HVAC technicians in active development. Research assistant at LSU's Center for Economics, Business & Policy Research, working on its [Geaux AI Economy](https://www.lsu.edu/business/cebpr/geaux-ai/index.php) initiative on how AI is reshaping Louisiana's economy. Originally from Minsk, now in Baton Rouge.
 
 I build with Claude every day: 1,400+ Claude Code sessions since spring 2026, and most of what I ship has Claude inside it.
 
@@ -19,7 +19,7 @@ Most of these were built privately between spring and summer 2026 and published 
 
 ## Building now
 
-- **Amber**, an AI co-pilot for HVAC technicians on ServiceTitan: answers from a knowledge base Claude builds from the shop's manuals and past jobs, and drafts the invoice from the on-site conversation. Technical co-founder; 2,500+ tests and 820 commits since May 2026. Private until launch this fall.
+- [**plumb**](https://github.com/Artem1bar/plumb), an AI co-pilot for HVAC technicians on ServiceTitan: answers from a knowledge base Claude builds from the shop's manuals and past jobs, and drafts the invoice from the on-site conversation. Technical co-founder; 2,500+ tests, in active development. Private repository.
 - [**DataPilot**](https://github.com/Artem1bar/datapilot): upload a spreadsheet, describe the analysis in plain English; Claude picks the method and runs real statistics (33 scipy / pandas / statsmodels operations), every number measured, never generated. Outlier detection, cleaning catalog, scatter/bubble plotter, and plan review included. 1,964 tests. Runs locally with docker compose; the hosted frontend is waiting on a backend host.
 - [**g1bridge**](https://github.com/Artem1bar/g1bridge): a Claude agent on Even Realities G1 smart glasses over Bluetooth LE. Reads the glasses' inputs, pushes a custom heads-up display, transcribes voice captured on the glasses.
 - [**AI Literacy App**](https://github.com/Artem1bar/ai-literacy-app): role-adaptive modules on how LLMs work, prompting, and responsible AI, for students, professors, and developers. Reworked into the [AI 101 guides](https://weblux.co/ai-101) for business owners. [Live](https://ai-literacy-app-seven.vercel.app)
