@@ -44,6 +44,8 @@ Four projects from one series: an empty folder, Claude Code, and a single instru
 
 ## Smaller things
 
+- [**command-hub**](https://github.com/Artem1bar/command-hub): local-first operations dashboard (Next.js 15, SQLite) for multiple business divisions. Manufacturing module is fully functional — machine status board, job queue, materials inventory, quoting calculator. Switchboard HUD (`/switchboard`) for social, messages and analytics. Other divisions are stubs.
+- [**on-my-plate**](https://github.com/Artem1bar/on-my-plate): Claude artifact dashboard for GitHub — review requests, open PRs with CI badges, assigned issues, and mention notifications, all pulled live via the GitHub MCP connector.
 - [**cengage-tutor**](https://github.com/Artem1bar/cengage-tutor): Playwright automation agent for Cengage MindTap. Syncs due dates, surfaces upcoming work, and auto-handles ungraded engagement busywork — page-view checkboxes, video-watched pings, Continue buttons, Aplia P&A clicks. Never touches graded work.
 - [**documake**](https://github.com/Artem1bar/documake): local-first PDF generator for invoices, quotes, SOWs, and NDAs. Data never leaves the browser.
 - [**PissMap NOLA**](https://github.com/Artem1bar/pissmap): 412 field-vetted places to pee in New Orleans. When you gotta geaux. [Live](https://pissmap.vercel.app)
