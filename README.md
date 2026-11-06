@@ -40,6 +40,7 @@ Four projects from one series: an empty folder, Claude Code, and a single instru
 ## Hardware and math
 
 - [**wndr-os**](https://github.com/Artem1bar/wndr-os): ESP32-S3 firmware for a pocket Tamagotchi-style device that asks people wonder questions, tells facts, and runs party games. 60 fps render loop, gesture input, sleep and wake.
+- [**esp32-smooth-eye-blinking**](https://github.com/Artem1bar/esp32-smooth-eye-blinking): smooth, natural eye-blink animation for ESP32 + ST7789 TFT — ease-in/ease-out curves, 10% double-blink chance, heap-buffered partial redraws. Drop-in for Adafruit Feather TFT ESP32-S3 and Waveshare ESP32-S3-LCD.
 - [**roboarm**](https://github.com/Artem1bar/roboarm): simulator-complete control software for a planned carbon-Kevlar 6-DOF arm. Inverse kinematics, trajectories, PID, safety monitor, web hub. No physical arm yet.
 - [**fuelfleet**](https://github.com/Artem1bar/fuelfleet): a fleet-level fusion fuel-supply and deployment-economics model. Tritium, Li-6, learning rates, Monte Carlo.
 - **ionic-wind-contactless-manipulation**: research project started as an ENGL 2000 paper and grown into a viability study — can corona-driven ionic wind lift and steer small objects without contact? Includes first-principles derivations, checks against published thrusters, an interactive explorer, a 3D time-domain IonLab simulator, and a bench module design for measuring the three unknowns. Private.
